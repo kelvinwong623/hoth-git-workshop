@@ -11,10 +11,15 @@ Resources
 * []
 
 #### Required for this workshop:
-A code editor (any of the below)
+A code editor (I recommend this one):
 * [Sublime Text](https://www.sublimetext.com/3)
+Make a Github Account:
 * [Github Account](https://git.io/)
+Download this:
 * [Git](https://code.visualstudio.com/)
+
+#### Optional for this workshop
+
 
 #### Additional resources for learning Git:
 

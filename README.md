@@ -8,7 +8,7 @@ Resources
 * [Hack on the Hill Homepage](hoth.splashthat.com): General FAQ and Schedule
 * [Mentor Queue](https://acmhack-mentors.herokuapp.com/): Submit help tickets
 * [Medium Articles](https://medium.com/techatucla): Miscellaneous blog articles on getting started, as well as info on the various committees in ACM
-* []
+* [Workshop Slides](https://docs.google.com/presentation/d/1dOqcGJ6A0UaOyYUMpHiBFclln1h4BkW3Lz3XdE8Wvzk/edit?usp=sharing)
 
 #### Required for this workshop:
 A code editor (I recommend this one):

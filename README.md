@@ -20,9 +20,6 @@ Make a Github Account:
 Download this:
 * [Git](https://code.visualstudio.com/)
 
-#### Optional for this workshop
-
-
 #### Additional resources for learning Git:
 
 * [Git Tutorial by Github](https://try.github.io/)
